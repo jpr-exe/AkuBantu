@@ -100,10 +100,3 @@ Build output akan berada di folder `frontend/dist` (standar Vite).
 - Untuk email via Gmail, gunakan App Password dan set `MAIL_USERNAME` serta `MAIL_PASSWORD_APP`.
 - Jika menggunakan Midtrans, pastikan `MIDTRANS_IS_PRODUCTION` sesuai mode.
 
----
-
-Jika Anda mau, saya bisa:
-- Menambahkan contoh `backend/.env.example` berdasarkan variabel yang terdeteksi.
-- Menyediakan skrip `run.sh` / `run.ps1` untuk mempermudah startup lokal.
-
-File README ini dibuat berdasarkan isi folder proyek yang saya scan.
